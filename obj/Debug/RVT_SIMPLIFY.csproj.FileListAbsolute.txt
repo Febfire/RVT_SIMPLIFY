@@ -1,0 +1,5 @@
+E:\PublishProjects\test-solution\RVT_SIMPLIFY\bin\Debug\RVT_SIMPLIFY.dll
+E:\PublishProjects\test-solution\RVT_SIMPLIFY\bin\Debug\RVT_SIMPLIFY.pdb
+E:\PublishProjects\test-solution\RVT_SIMPLIFY\obj\Debug\RVT_SIMPLIFY.csprojResolveAssemblyReference.cache
+E:\PublishProjects\test-solution\RVT_SIMPLIFY\obj\Debug\RVT_SIMPLIFY.dll
+E:\PublishProjects\test-solution\RVT_SIMPLIFY\obj\Debug\RVT_SIMPLIFY.pdb
